@@ -6,6 +6,12 @@ const ap = new APlayer({
     listMaxHeight: 20,
     audio: [
         {
+            name: '星空',
+            artist: '南征北战',
+            url: '/music/星空-南征北战.mp3',
+            cover: '/img/星空-南征北战.jpg'
+        },
+        {
             name: '眼泪在飞',
             artist: '幼稚园杀手',
             url: '/music/眼泪在飞-幼稚园杀手.mp3',
